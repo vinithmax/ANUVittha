@@ -1,1 +1,3 @@
-# ANUVittha
+# Program make a simple calculator
+
+
